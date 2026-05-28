@@ -51,7 +51,7 @@
 ### 🚀 Release 运行版下载
 1. 前往本仓库的 **[Releases]** 页面，下载最新的 `Notebook_version1.2_release.zip` 压缩包。
 2. 将压缩包完整解压到本地（请确保 `Notebook_version1.2.exe` 与 `jre` 文件夹保持在**同一层级目录下**）。
-3. 直接双击 `Notebook_version1.2.exe` 即可运行！推荐右键该文件选择“发送到 -> 桌面快捷方式”，日常使用更方便。
+3. 直接双击 `Notebook_version1.2.exe` 即可运行！推荐右键该文件选择“创建桌面快捷方式”，日常使用更方便。
 
 ---
 
